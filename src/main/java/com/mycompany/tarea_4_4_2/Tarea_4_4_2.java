@@ -12,6 +12,8 @@ public class Tarea_4_4_2 {
 
     public static void main(String[] args) {
         System.out.println("Hola Andrii");
+        System.out.println("Hola Andrii 2");
+
 
     }
 }
